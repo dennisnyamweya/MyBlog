@@ -23,7 +23,7 @@ The application has  several models that facilitate login,commenting and my blog
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns contact me or make a contribution to the code.You can reach me via my email denisnyamweya813@gmail.com
 ### License
-*{MIT License
+*{MIT License}
 
 Copyright (c) [2019] [Dennis Makori Nyamweya]
 
