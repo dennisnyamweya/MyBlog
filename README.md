@@ -17,7 +17,7 @@ There are no known bugs but contact me via email if you do see one.
 * Heroku
 ## BDD
 ### Business Logic
-An application that will help one pitch ideas in a span of one minute.A user would see various pitches sources on the homepage of the application and select a pitch and see all news pitches and even vote on the pitches.
+An application that will help me document my interests and get reviews from others of my becoming.
 ## User Interface Logic
 The application has  several models, one for the user,pitch,pitchcategory,votes and  the other for comments.The application on clicking to read new p,itches.
 ## Support and contact details
