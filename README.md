@@ -1,4 +1,4 @@
-# Pitch App
+# Blog App
 #### An application that will help one utilize one minute to deliver their ideas. , 29th July 2019
 #### By **Dennis Makori Nyamweya**
 ## Description
