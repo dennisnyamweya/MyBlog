@@ -23,6 +23,7 @@ class DevConfig(Config):
     """Configuration class for development stage of the app"""
     DEBUG = True
 
+
 config_options = {
     'development': DevConfig,
     'production': ProdConfig
