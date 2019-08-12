@@ -4,7 +4,7 @@
 ## Description
  An application that will help me document things about myself,interests and many other things.
 ## Setup/Installation Requirements
-* git clone
+* git clone https://github.com/dennisnyamweya/MyBlog.git
 * install python
 * cd Minute-Pitch
 * run python3.6 start.sh
