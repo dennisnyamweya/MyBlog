@@ -19,7 +19,7 @@ There are no known bugs but contact me via email if you do see one.
 ### Business Logic
 An application that will help me document my interests and get reviews from others of my becoming.
 ## User Interface Logic
-The application has  several models, one for the user,pitch,pitchcategory,votes and  the other for comments.The application on clicking to read new p,itches.
+The application has  several models that facilitate login,commenting and my blogs.
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns contact me or make a contribution to the code.You can reach me via my email denisnyamweya813@gmail.com
 ### License
