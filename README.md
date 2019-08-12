@@ -1,8 +1,8 @@
 # Blog App
-#### An application that will help one utilize one minute to deliver their ideas. , 29th July 2019
+#### An application that show things about me. , 11th August 2019
 #### By **Dennis Makori Nyamweya**
 ## Description
- An application that will help users to pitch their ideas within a span of one minute in an organised manner.
+ An application that will help me document things about myself,interests and many other things.
 ## Setup/Installation Requirements
 * git clone https://github.com/dennisnyamweya/pitching.git
 * install python
